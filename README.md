@@ -32,7 +32,7 @@ Contributions are welcome! Please:
 
 This repository is **not officially supported**.  
 However:
-- You may open [GitHub Issues](https://github.com/YOUR_REPO/issues) with questions, bugs, or suggestions.
+- You may open [GitHub Issues](https://github.com/acumatica-import-scenarios-samples/issues) with questions, bugs, or suggestions.
 - For broader discussion, please post on the **Acumatica Community Forums** rather than GitHub.
 
 ---
